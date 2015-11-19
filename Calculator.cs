@@ -168,9 +168,6 @@ namespace CAL
             this.typed2 = string.Empty;
         }
 
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+    
     }
 }
